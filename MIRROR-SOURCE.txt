@@ -1,0 +1,13 @@
+Submodule mirrored for openancore.
+
+parent: platform_external_angle
+path: third_party/android_sdk
+gitmodules_url: https://chromium.googlesource.com/chromium/src/third_party/android_sdk
+fetched_from: https://chromium.googlesource.com/chromium/src/third_party/android_sdk
+commit: dc4679d47e13cdcb33b439722140baebe4332d4f
+branch: main
+fallback_from_github: false
+
+commit is the gitlink recorded on the parent's android-15.0.0_r36 branch.
+branch is the upstream HEAD branch at fetch time. The commit is pushed
+here as android-15.0.0_r36 whether or not it is that branch's tip.
